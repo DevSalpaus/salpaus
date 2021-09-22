@@ -1,7 +1,7 @@
 # Salpaus projekti
 ## Versio: [0.0]
 
-### --
+--
 
 # Lämpömittari
 
