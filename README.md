@@ -11,3 +11,14 @@ Nimet |
 Daniel
 Eeti
 Neo
+
+## Ohjelmointi kielet Mitä me käytetään
+
+Languages |
+----------|
+c++
+javascript
+css
+html
+md
+
