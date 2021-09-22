@@ -22,4 +22,4 @@ css
 html
 md
 
-![link of Salpauksen Hyvikset](www.salpaus.fi)
+Powered by [Salpauksen Hyvikset](https://salpaus.fi)
