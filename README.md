@@ -6,6 +6,8 @@
 # Lämpömittari
 
 ## kehitystiimi:
-| * Eeti
-| * Neo
-| * Daniel
+Nimet |
+------|
+Daniel
+Eeti
+Neo
