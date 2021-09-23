@@ -23,7 +23,7 @@ html
 md
 
 # led valon sytytys 
-[image of kytkentäkaavio](https://github.com/DevSalpaus/salpaus/nimet%C3%B6n.png)
+[image of kytkentäkaavio](https://github.com/DevSalpaus/salpaus/kuva.png)
 
 
 
