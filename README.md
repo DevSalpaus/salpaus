@@ -28,7 +28,7 @@ md
 
 Komponentit | määrä |
 --------------------|
-Leipälauta | 1
+Leipälauta  1
 Johtoja | 3
 resistori 220 | 1
 photon | 1
