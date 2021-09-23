@@ -26,8 +26,8 @@ md
 # led valon sytytys 
 ![image of kytkentäkaavio](https://raw.githubusercontent.com/DevSalpaus/salpaus/main/kuva.png)
 
-Komponentit | määrä |
------------------
+Komponentit | määrä 
+------------|-------
 Leipälauta | 1
 Johtoja | 3
 resistori 220 | 1
