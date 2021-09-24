@@ -34,7 +34,8 @@ resistori 220 | 1 | 0,38 €
 photon | 1 | 28,90 €
 LED valo 3v (punainen) | 1 | 2,90 €/18kpl
 
+# 24.9.2021
 
-
+![image of kytkennät](https://github.com/DevSalpaus/salpaus/blob/main/kytkennat.jpg)
 Powered by:
 ### [Salpauksen Hyvikset](https://salpaus.fi)
